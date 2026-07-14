@@ -1,0 +1,4 @@
+^\.travis\.yml$
+^Makefile$
+^cran$
+^cran-comments\.md$
